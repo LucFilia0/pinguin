@@ -1,2 +1,2 @@
-pinguin : pinguin.c
-	gcc pinguin.c -o pinguin
+pinguin : main.c
+	gcc main.c -o pinguin
